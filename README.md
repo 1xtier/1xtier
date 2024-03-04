@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZyejBjNmJkZHM0bGkzZGs0aGhwaWx3b251Znhrd3B2MjByc2Q3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZyejBjNmJkZHM0bGkzZGs0aGhwaWx3b251Znhrd3B2MjByc2Q3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="300"/>
 </div>
 
 - 👋 Hi, I’m @SoraxT

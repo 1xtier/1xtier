@@ -33,8 +33,8 @@
 <img align="left" alt="Debian" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" />
 <img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" />
 <img align="left" alt="Firefox" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" />
-<img align="left" alt="Firefox" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" />
-#
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" />
+
 </br>
 <!---
 SoraxT/SoraxT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

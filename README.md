@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-***
+#
 
 ### 🧰 Languages and Tools
 
@@ -26,7 +26,6 @@
 <img align="left" alt="Jekyll" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original.svg" />
 </br>
 
-***
 #
 ### 👨🏻‍💻Tools work
 

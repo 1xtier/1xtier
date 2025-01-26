@@ -1,11 +1,11 @@
-# <h1 align="center">Hi there, I'm <a href="https://about.soraxlab.ru/" target="_blank">h0lik</a> 
+# <h1 align="center">Hi there, I'm <a href="" target="_blank">1x:Tier</a> 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZyejBjNmJkZHM0bGkzZGs0aGhwaWx3b251Znhrd3B2MjByc2Q3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="300"/>
 </div>
 
 #
 
-- 👋 Hi, I’m @h0lik
+- 👋 Hi, I’m @1xtier
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

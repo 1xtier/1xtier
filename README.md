@@ -37,6 +37,7 @@
 
 ### 🧰 Virtualization and containerization systems
 <img align="left" alt="Proxmox" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/proxmox/proxmox-plain-wordmark.svg" />
+<img align="left" alt="Proxmox" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vsphere/vsphere-original-wordmark.svg" />
 <img align="left" alt="Docker" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg" />
 </br>

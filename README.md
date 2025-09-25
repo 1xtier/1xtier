@@ -28,10 +28,10 @@
 </br>
 
 ### 🧰 Languages
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" />
+<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg" />
 </br>
 <!---
 1x:Tier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

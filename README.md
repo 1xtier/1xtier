@@ -21,24 +21,23 @@
 <img align="left" alt="Packer" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Vagrant" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" />
-<img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" />
 <img align="left" alt="Nvim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" />
 
 </br>
 
 ### 🧰 linux
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original-wordmark.svg" />
 <img align="left" alt="Alma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/almalinux/almalinux-plain-wordmark.svg" />
 <img align="left" alt="RedHat" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original-wordmark.svg" />
 <img align="left" alt="CentOS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/centos/centos-plain-wordmark.svg" />
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
 
 </br>
 
 ### 🧰 Languages
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" />
-<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg" />
+<img align="left" alt="Perl" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/perl/perl-original.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Yaml" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" />
 
 </br>
 
